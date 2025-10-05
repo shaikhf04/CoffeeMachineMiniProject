@@ -1,5 +1,9 @@
 # CoffeeMachineMiniProject ☕ [In-progress]
 
+# Coffee Bot ☕️
+
+![Coffee Bot](./assets/coffee-bot.png)
+
 A **Python-based coffee machine simulator** that manages ingredient stock, processes user orders, and handles exceptions such as out-of-stock situations.
 
 Designed to demonstrate:
