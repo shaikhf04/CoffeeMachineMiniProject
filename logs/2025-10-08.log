@@ -1,0 +1,43 @@
+[2025-10-08 23:41:01] [INFO] - Checking stock availability for Black Coffee
+[2025-10-08 23:41:01] [INFO] - coffee: Required 1, In Stock 2
+[2025-10-08 23:41:01] [INFO] - milk: Required 0, In Stock 2
+[2025-10-08 23:41:01] [INFO] - water: Required 1, In Stock 2
+[2025-10-08 23:41:01] [INFO] - sugar: Required 0, In Stock 2
+[2025-10-08 23:41:01] [INFO] - Updated stock
+[2025-10-08 23:41:01] [INFO] - coffee: 1
+[2025-10-08 23:41:01] [INFO] - milk: 2
+[2025-10-08 23:41:01] [INFO] - water: 1
+[2025-10-08 23:41:01] [INFO] - sugar: 2
+[2025-10-08 23:41:06] [INFO] - Total bill so far: $10.00
+[2025-10-08 23:47:04] [INFO] - Checking stock availability for Black Coffee
+[2025-10-08 23:47:04] [INFO] - coffee: Required 1, In Stock 2
+[2025-10-08 23:47:05] [INFO] - milk: Required 0, In Stock 2
+[2025-10-08 23:47:05] [INFO] - water: Required 1, In Stock 2
+[2025-10-08 23:47:05] [INFO] - sugar: Required 0, In Stock 2
+[2025-10-08 23:47:05] [INFO] - Updated stock
+[2025-10-08 23:47:05] [INFO] - coffee: 1
+[2025-10-08 23:47:05] [INFO] - milk: 2
+[2025-10-08 23:47:05] [INFO] - water: 1
+[2025-10-08 23:47:05] [INFO] - sugar: 2
+[2025-10-08 23:47:08] [INFO] - Total bill so far: $10.00
+[2025-10-08 23:59:38] [INFO] - Checking stock availability for Black Coffee
+[2025-10-08 23:59:38] [INFO] - coffee: Required 1, In Stock 2
+[2025-10-08 23:59:38] [INFO] - milk: Required 0, In Stock 2
+[2025-10-08 23:59:38] [INFO] - water: Required 1, In Stock 2
+[2025-10-08 23:59:38] [INFO] - sugar: Required 0, In Stock 2
+[2025-10-08 23:59:38] [INFO] - Updated stock
+[2025-10-08 23:59:38] [INFO] - coffee: 1
+[2025-10-08 23:59:38] [INFO] - milk: 2
+[2025-10-08 23:59:38] [INFO] - water: 1
+[2025-10-08 23:59:38] [INFO] - sugar: 2
+[2025-10-09 00:00:36] [INFO] - Checking stock availability for Latte
+[2025-10-09 00:00:36] [INFO] - coffee: Required 1, In Stock 1
+[2025-10-09 00:00:36] [INFO] - milk: Required 0, In Stock 2
+[2025-10-09 00:00:36] [INFO] - water: Required 1, In Stock 1
+[2025-10-09 00:00:36] [INFO] - sugar: Required 0, In Stock 2
+[2025-10-09 00:00:36] [INFO] - Updated stock
+[2025-10-09 00:00:36] [INFO] - coffee: 0
+[2025-10-09 00:00:36] [INFO] - milk: 1
+[2025-10-09 00:00:36] [INFO] - water: 0
+[2025-10-09 00:00:36] [INFO] - sugar: 1
+[2025-10-09 00:00:40] [INFO] - Total bill so far: $15.00

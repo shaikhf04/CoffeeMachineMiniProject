@@ -1,0 +1,27 @@
+[2025-10-09 00:01:28] [INFO] - Checking stock availability for Cappuccino
+[2025-10-09 00:01:28] [INFO] - coffee: Required 1, In Stock 2
+[2025-10-09 00:01:28] [INFO] - milk: Required 0, In Stock 2
+[2025-10-09 00:01:28] [INFO] - water: Required 1, In Stock 2
+[2025-10-09 00:01:28] [INFO] - sugar: Required 0, In Stock 2
+[2025-10-09 00:01:28] [INFO] - Updated stock
+[2025-10-09 00:01:28] [INFO] - coffee: 1
+[2025-10-09 00:01:28] [INFO] - milk: 0
+[2025-10-09 00:01:28] [INFO] - water: 1
+[2025-10-09 00:01:28] [INFO] - sugar: 2
+[2025-10-09 00:01:30] [INFO] - Total bill so far: $20.00
+[2025-10-09 00:01:36] [INFO] - Checking stock availability for Black Coffee
+[2025-10-09 00:01:36] [INFO] - coffee: Required 1, In Stock 1
+[2025-10-09 00:01:36] [INFO] - milk: Required 0, In Stock 0
+[2025-10-09 00:01:36] [INFO] - water: Required 1, In Stock 1
+[2025-10-09 00:01:36] [INFO] - sugar: Required 0, In Stock 2
+[2025-10-09 00:01:36] [INFO] - Updated stock
+[2025-10-09 00:01:36] [INFO] - coffee: 0
+[2025-10-09 00:01:36] [INFO] - milk: 0
+[2025-10-09 00:01:36] [INFO] - water: 0
+[2025-10-09 00:01:36] [INFO] - sugar: 2
+[2025-10-09 00:01:38] [INFO] - Total bill so far: $30.00
+[2025-10-09 00:01:45] [INFO] - Checking stock availability for Latte
+[2025-10-09 00:01:45] [INFO] - coffee: Required 1, In Stock 0
+[2025-10-09 00:01:45] [INFO] - 
+ Need: 1 and Stock: 0
+[2025-10-09 00:01:45] [INFO] - Order could not be completed: Not enough coffee in stock to make your order.
