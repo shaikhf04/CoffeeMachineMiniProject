@@ -24,3 +24,24 @@ git clone https://github.com/shaikhf04/CoffeeMachineMiniProject.git
 cd CoffeeMachineMiniProject
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+---
+
+## 🚀 Live Demo
+👉 [Try it here](https://coffee-machine-app-demo.streamlit.app/)
+
+---
+
+## 🖼️ Demo
+
+
+![Coffee Bot UI](./assets/screenshot.png)
+
+
+
+---
+
+## 🛠️ Tech Stack
+- Python 3
+- Streamlit
