@@ -11,6 +11,9 @@ mock_st.session_state.total_bill = 0.0
 mock_st.session_state.order_count = 0
 mock_st.session_state.pending_item = None
 mock_st.session_state.logs = []
+mock_st.session_state.instock.items.return_value = [
+    ("coffee", 10), ("milk", 10), ("water", 10), ("sugar", 10)
+]
 sys.modules["streamlit"] = mock_st
 
 from app import check_stock, deduct_stock, confirm_payment, cancel_order, reset_machine, OutOfStockError
