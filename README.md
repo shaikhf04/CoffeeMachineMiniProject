@@ -45,3 +45,5 @@ streamlit run app.py
 ## 🛠️ Tech Stack
 - Python 3
 - Streamlit
+
+![CI](https://github.com/shaikhf04/CoffeeMachineMiniProject/actions/workflows/ci.yml/badge.svg)
