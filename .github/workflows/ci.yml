@@ -1,0 +1,24 @@
+name: Run Coffee Machine Tests
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.13"
+
+    - name: Install dependencies
+      run: pip install pytest streamlit
+
+    - name: Run tests
+      run: pytest test_coffee.py -v
